@@ -1,0 +1,14 @@
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\BarcodeGeneratorReaderApplication.exe
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\BarcodeGeneratorReaderApplication.deps.json
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\BarcodeGeneratorReaderApplication.runtimeconfig.json
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\BarcodeGeneratorReaderApplication.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\BarcodeGeneratorReaderApplication.pdb
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.AssemblyInfoInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.AssemblyInfo.cs
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\refint\BarcodeGeneratorReaderApplication.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.pdb
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.genruntimeconfig.cache
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\ref\BarcodeGeneratorReaderApplication.dll

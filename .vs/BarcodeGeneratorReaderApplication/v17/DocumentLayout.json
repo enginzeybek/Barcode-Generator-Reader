@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{183C5B60-5C58-420D-A6E1-81F7196A98D4}|BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication.csproj|c:\\users\\lenovo 2022\\documents\\github\\c# projeleri\\barcode generator reader\\barcodegeneratorreaderapplication\\barcodegeneratorreaderapplication\\concreate\\barkode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183C5B60-5C58-420D-A6E1-81F7196A98D4}|BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication.csproj|solutionrelative:barcodegeneratorreaderapplication\\concreate\\barkode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183C5B60-5C58-420D-A6E1-81F7196A98D4}|BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication.csproj|c:\\users\\lenovo 2022\\documents\\github\\c# projeleri\\barcode generator reader\\barcodegeneratorreaderapplication\\barcodegeneratorreaderapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183C5B60-5C58-420D-A6E1-81F7196A98D4}|BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication.csproj|solutionrelative:barcodegeneratorreaderapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183C5B60-5C58-420D-A6E1-81F7196A98D4}|BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication.csproj|c:\\users\\lenovo 2022\\documents\\github\\c# projeleri\\barcode generator reader\\barcodegeneratorreaderapplication\\barcodegeneratorreaderapplication\\concreate\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183C5B60-5C58-420D-A6E1-81F7196A98D4}|BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication.csproj|solutionrelative:barcodegeneratorreaderapplication\\concreate\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barkode.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication\\Concreate\\Barkode.cs",
+              "RelativeDocumentMoniker": "BarcodeGeneratorReaderApplication\\Concreate\\Barkode.cs",
+              "ToolTip": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication\\Concreate\\Barkode.cs",
+              "RelativeToolTip": "BarcodeGeneratorReaderApplication\\Concreate\\Barkode.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:47:39.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication\\Concreate\\Client.cs",
+              "RelativeDocumentMoniker": "BarcodeGeneratorReaderApplication\\Concreate\\Client.cs",
+              "ToolTip": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication\\Concreate\\Client.cs",
+              "RelativeToolTip": "BarcodeGeneratorReaderApplication\\Concreate\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:25:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BarcodeGeneratorReaderApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO 2022\\Documents\\Github\\C# Projeleri\\Barcode Generator Reader\\BarcodeGeneratorReaderApplication\\BarcodeGeneratorReaderApplication\\Program.cs",
+              "RelativeToolTip": "BarcodeGeneratorReaderApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:23:01.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
