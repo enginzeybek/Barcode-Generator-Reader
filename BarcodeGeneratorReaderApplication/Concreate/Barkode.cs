@@ -14,28 +14,27 @@ namespace BarcodeGeneratorReaderApplication.Concreate
 {
     public class Barkode
     {
-        public static string CreateBarkod(string filePath)
-        {
-            Console.WriteLine("12 BASAMAKLI BİR SAYI GİRİNİZ");
+		public static string CreateBarcode(string filePath, string barcodeNumber)
+		{
+			var writer = new BarcodeWriter
+			{
+				Format = BarcodeFormat.CODE_128,
+				Options = new EncodingOptions
+				{
+					Width = 300,
+					Height = 100
+				},
+				Renderer = new BitmapRenderer() // Renderer ekledik
+			};
 
-            string barcodNumber = Console.ReadLine();
+			using (Bitmap barcodeBitmap = writer.Write(barcodeNumber))
+			{
+				barcodeBitmap.Save(filePath, ImageFormat.Png);
+			}
 
+			Console.WriteLine($"Barkod kaydedildi: {filePath}");
 
-            var writer = new BarcodeWriter<Bitmap>
-            {
-                Format = BarcodeFormat.CODE_128,
-                Options = new EncodingOptions
-                {
-                    Width = 300,
-                    Height = 100
-                }
-            };
-
-            Bitmap barcodeBitmap = writer.Write(barcodNumber);
-            barcodeBitmap.Save(filePath, ImageFormat.Png);
-
-			return barcodNumber;
-
+			return filePath;
 		}
 
 		public static string ReadBarcode(string filePath)

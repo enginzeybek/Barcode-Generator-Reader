@@ -5,9 +5,13 @@ Console.WriteLine("BARKOD İŞLEMİ İÇİN BİR DOSYA OLUŞTURULUYOR");
 
 string filePath = Client.FileWay();
 
+Console.WriteLine("12 BASAMAKLI BİR KAREKOD GİRİNİZ");
+
+string BarkodeNumber = Console.ReadLine();
+
 Console.WriteLine("BARKOD OLUŞTURULUYOR");
 
-string barcodeNumber = Barkode.CreateBarkod(filePath);
+string barcodeNumber = Barkode.CreateBarcode(filePath, BarkodeNumber);
 
 Console.WriteLine("BARKOD OKUNUYOR");
 

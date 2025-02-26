@@ -61,6 +61,10 @@
             "ZXing.Net.Bindings.Windows.Compatibility": {
               "target": "Package",
               "version": "[0.16.10, )"
+            },
+            "ZXing.Net.Bindings.ZKWeb.System.Drawing": {
+              "target": "Package",
+              "version": "[0.16.8, )"
             }
           },
           "imports": [

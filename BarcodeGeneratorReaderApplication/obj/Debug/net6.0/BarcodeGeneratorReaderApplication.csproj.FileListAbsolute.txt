@@ -12,3 +12,11 @@ C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\Barc
 C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.pdb
 C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.genruntimeconfig.cache
 C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\ref\BarcodeGeneratorReaderApplication.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\zxing.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\ZXing.Windows.Compatibility.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.csproj.AssemblyReference.cache
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeGeneratorReaderApplication.sourcelink.json
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\obj\Debug\net6.0\BarcodeG.5CB25EF2.Up2Date
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\ZKWeb.System.Drawing.dll
+C:\Users\LENOVO 2022\Documents\Github\C# Projeleri\Barcode Generator Reader\BarcodeGeneratorReaderApplication\BarcodeGeneratorReaderApplication\bin\Debug\net6.0\ZXing.ZKWeb.System.Drawing.dll

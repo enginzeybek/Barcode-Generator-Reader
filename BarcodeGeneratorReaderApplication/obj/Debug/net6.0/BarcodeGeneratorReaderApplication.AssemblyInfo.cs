@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarcodeGeneratorReaderApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15026518ddf54868cb6ba7f2615bccbb9db7d329")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarcodeGeneratorReaderApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarcodeGeneratorReaderApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
